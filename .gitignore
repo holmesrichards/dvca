@@ -37,6 +37,9 @@ fp-info-cache
 # Compressed files
 *.zip
 
+# KiKit
+Separate_PCBs
+
 # Mac stuff
 *.DS_Store
 
