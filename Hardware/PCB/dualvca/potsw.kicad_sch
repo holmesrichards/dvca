@@ -28,7 +28,7 @@
       (property "ki_keywords" "power-flag" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"+12V\"" (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"+12V_1\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "+12V_1_0_1"
@@ -80,7 +80,7 @@
       (property "ki_keywords" "power-flag" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"-12V\"" (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"-12V_1\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "-12V_1_0_0"
