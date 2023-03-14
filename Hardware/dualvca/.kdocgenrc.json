@@ -1,0 +1,14 @@
+{
+    "enabled": [
+	"bom",
+	"ibom",
+	"schem_pdf",
+        "pcb_svg",
+        "pcb_pdf",
+	"readme"
+    ],
+    "separation": [
+	["FrontPCB", "annotation; ref: B102"],
+	["BackPCB", "annotation; ref: B101"]
+	]
+}

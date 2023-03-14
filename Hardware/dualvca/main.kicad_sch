@@ -3512,7 +3512,7 @@
   )
 
   (symbol (lib_id "AO_symbols:Graphic") (at 66.04 142.24 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 274414ab-1890-467f-a7af-4d612100a2a6)
     (property "Reference" "GRAF101" (at 73.025 141.3315 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5647,7 +5647,7 @@
   )
 
   (symbol (lib_id "AO_symbols:Board") (at 68.58 163.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9aa35ed3-1f71-4cc9-b1cd-434deec23f91)
     (property "Reference" "B101" (at 74.295 162.9215 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5733,7 +5733,7 @@
   )
 
   (symbol (lib_id "AO_symbols:Graphic") (at 66.04 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e1ffe2e-1145-419a-9291-fe6690405234)
     (property "Reference" "GRAF103" (at 73.66 149.225 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7379,7 +7379,7 @@
   )
 
   (symbol (lib_id "AO_symbols:Graphic") (at 66.04 157.48 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ed09563d-4a0b-40ba-8ce0-f5db3943641d)
     (property "Reference" "GRAF104" (at 73.66 156.845 0)
       (effects (font (size 1.27 1.27)) (justify left))

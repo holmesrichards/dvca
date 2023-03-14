@@ -1183,7 +1183,7 @@
   )
 
   (symbol (lib_id "AO_symbols:Board") (at 68.58 187.96 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 783ae075-bc84-44c1-ac65-c6901f007261)
     (property "Reference" "B102" (at 74.295 187.0515 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1306,7 +1306,7 @@
   )
 
   (symbol (lib_id "AO_symbols:Graphic") (at 67.31 165.1 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 809f70fd-374c-4d5c-9cab-d8e44fa2006c)
     (property "Reference" "GRAF102" (at 74.295 164.1915 0)
       (effects (font (size 1.27 1.27)) (justify left))

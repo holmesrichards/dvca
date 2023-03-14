@@ -1,8 +1,8 @@
 # dualvca.kicad_sch BOM
 
-Tue 14 Feb 2023 09:02:56 PM EST
+Mon 13 Mar 2023 09:42:59 PM EDT
 
-Generated from schematic by Eeschema 7.99.0-unknown-2cc3d8e9bc~165~ubuntu22.04.1
+Generated from schematic by Eeschema 7.0.1-3b83917a11~171~ubuntu22.04.1
 
 **Component Count:** 87
 
@@ -11,7 +11,7 @@ Generated from schematic by Eeschema 7.99.0-unknown-2cc3d8e9bc~165~ubuntu22.04.1
 | C1, C4 | 2 | 10uF | Electrolytic capacitor, 2.5 mm pitch |  |  | Tayda | A-4349 |
 | C2, C3, C5, C6 | 4 | 100nF | Ceramic disc capacitor, 5 mm pitch |  |  | Tayda | A-553 |
 | D101, D102 | 2 | 1N5817 | Schottky Barrier Rectifier Diode, DO-41 |  |  | Tayda | A-159 |
-| J1, J2, J3, J4, J5, J6, J7 | 7 | AudioJack2 | Audio Jack, 2 Poles (Mono / TS) |  |  | Tayda | A-1121 |
+| J1–7 | 7 | AudioJack2 | Audio Jack, 2 Poles (Mono / TS) |  |  | Tayda | A-1121 |
 | J8 | 1 | AudioJack2_SwitchT | Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling) |  |  | Tayda | A-1121 |
 | J101 | 1 | Conn_01x15 | 2.54 mm pin header, 1x15 positions |  |  |  |  |
 | J102 | 1 | Conn_01x15 | 2.54 mm pin socket, 1x15 positions |  |  |  |  |
@@ -34,9 +34,25 @@ Generated from schematic by Eeschema 7.99.0-unknown-2cc3d8e9bc~165~ubuntu22.04.1
 | R46, R48 | 2 | 2M | Resistor |  |  | Tayda |  |
 | RV10, RV32, RV101, RV102 | 4 | 100k | 9 mm board mount vertical pots (fit these *or* 16 mm) |  |  | Tayda |  |
 | RV18, RV41, RV45, RV47 | 4 | 2k | Trim-potentiometer | Bourns | 3296W | Tayda |  |
-| RV103, RV104, RV105, RV106 | 4 | 100k | 16 mm board mount vertical pots (fit these *or* 9 mm) |  |  | Tayda |  |
+| RV103–106 | 4 | 100k | 16 mm board mount vertical pots (fit these *or* 9 mm) |  |  | Tayda |  |
 | SW1, SW2 | 2 | SW_SPDT | Switch, single pole double throw |  |  | Tayda | A-3186 |
 | U1 | 1 | TL074 | Quad operational amplifier, DIP-14 |  |  | Tayda | A-1138 |
 | U2 | 1 | LM13700 | Dual OTA, DIP-16 |  |  | Tayda | A-900 |
-| ZKN101, ZKN102, ZKN103, ZKN104 | 4 | Knob_MF-A03 | MF-A03 knob |  |  |  |  |
-    
+| ZKN101–104 | 4 | Knob_MF-A03 | MF-A03 knob |  |  |  |  |
+
+## Resistors in color band order
+|Value|Qty|Refs|
+|----|----|----|
+|1k|2|R17, R39|
+|100k|14|R1, R2, R4, R5, R11, R13, R19, R23, R24, R26, R27, R33, R36, R40|
+|120k|2|R14, R34|
+|150R|2|R20, R42|
+|2k|6|R3, R7, R25, R29, R37, R101|
+|20k|4|R8, R15, R30, R35|
+|2M|2|R46, R48|
+|30k|2|R9, R31|
+|470R|2|R6, R28|
+|4.7k|2|R16, R38|
+|47k|2|R22, R44|
+|470k|2|R21, R43|
+
