@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.0-da2b9df05c~163~ubuntu22.04.1"
+      "Version": "7.0.1-3b83917a11~171~ubuntu22.04.1"
     },
-    "CreationDate": "2023-02-21T20:49:05-05:00"
+    "CreationDate": "2023-03-14T16:36:31-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -33,48 +33,53 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "mfos_vca-panel-F_Cu.gtl",
+      "Path": "mfos_vca-panel-CuTop.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mfos_vca-panel-B_Cu.gbl",
+      "Path": "mfos_vca-panel-CuBottom.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mfos_vca-panel-F_Paste.gtp",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "mfos_vca-panel-B_Paste.gbp",
+      "Path": "mfos_vca-panel-PasteBottom.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mfos_vca-panel-F_Silkscreen.gto",
+      "Path": "mfos_vca-panel-PasteTop.gtp",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "mfos_vca-panel-SilkTop.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mfos_vca-panel-B_Silkscreen.gbo",
+      "Path": "mfos_vca-panel-SilkBottom.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mfos_vca-panel-F_Mask.gts",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "mfos_vca-panel-B_Mask.gbs",
+      "Path": "mfos_vca-panel-MaskBottom.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mfos_vca-panel-Edge_Cuts.gm1",
+      "Path": "mfos_vca-panel-MaskTop.gts",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "mfos_vca-panel-EdgeCuts.gm1",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "mfos_vca-panel-CmtUser.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],

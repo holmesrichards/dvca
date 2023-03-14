@@ -148,11 +148,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="333.04729"
-     inkscape:cy="533.15851"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="411.53615"
+     inkscape:cy="627.91082"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer16"
      showgrid="false"
      units="in"
      inkscape:window-width="1769"
@@ -288,21 +288,13 @@
        id="guide5916"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.9527559,6.5354331"
+       position="2.9527559,8.2677166"
        orientation="0.70710678,-0.70710678"
        id="guide1745" />
-    <sodipodi:guide
-       position="4.1929086,6.5354331"
-       orientation="-0.70710678,-0.70710678"
-       id="guide1747" />
     <sodipodi:guide
        position="2.4606299,3.9370071"
        orientation="-0.70710678,-0.70710678"
        id="guide1751" />
-    <sodipodi:guide
-       position="4.4291338,3.9370071"
-       orientation="0.70710678,-0.70710678"
-       id="guide1753" />
     <sodipodi:guide
        position="4.9212598,2.1417322"
        orientation="1,0"
@@ -613,7 +605,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:inline;opacity:0.495">
+     style="display:none;opacity:0.495">
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007858,1.4370141 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -1085,36 +1077,36 @@
        height="7.8740182"
        x="1.9685038"
        y="1.1574802"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.9685038,8.6377971 H 5.9055116"
        id="path4204"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 1.9685038,1.5511818 H 5.9055116"
        id="path4206"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.25px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.9306941"
        y="1.4219304"
        id="text4163"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan4161"
          x="3.9306941"
@@ -1126,9 +1118,9 @@
        x="3.9407909"
        y="8.9425173"
        id="text4163-1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan4161-0"
          x="3.9407909"
@@ -1182,12 +1174,20 @@
      style="display:inline">
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.4606299,7.0629929 2.1653543,6.7677173 V 5.2519685 L 2.9527559,4.4645669"
-       id="path1763"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       d="M 4.4291338,7.0629929 4.1338582,6.7677173 V 3.519685 L 4.9212598,2.7322834"
+       id="path2397"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.4606299,7.0629929 -0.2952756,-0.2952756 0,-3.2480323 0.7874016,-0.7874016"
+       id="path1763"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <rect
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2718"
@@ -1195,10 +1195,10 @@
        height="0.9842518"
        x="2.992126"
        y="7.6141734"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
        ry="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2679,18 +2679,18 @@
        id="circle5194"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text5198"
        y="6.4740677"
        x="2.9527559"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.166667px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="6.4740677"
          x="2.9527559"
@@ -2702,9 +2702,9 @@
        x="2.9527559"
        y="5.7654066"
        id="text5216"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan5214"
          x="2.9527559"
@@ -2716,18 +2716,18 @@
        cx="2.4606247"
        id="circle5272"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4606247"
        y="8.520937"
        id="text5302"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan5300"
          x="2.4606247"
@@ -2751,18 +2751,18 @@
        cx="2.4606247"
        cy="7.0629926"
        r="0.27559054"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text1574"
        y="7.5354333"
        x="2.4606247"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
          y="7.5354333"
          x="2.4606247"
@@ -2774,18 +2774,18 @@
        cx="3.4448819"
        cy="8.0472431"
        r="0.27559054"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text2033"
        y="8.520937"
        x="3.4448819"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
          y="8.520937"
          x="3.4448819"
@@ -2797,18 +2797,18 @@
        cx="3.4448819"
        id="circle2035"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4448819"
        y="7.5354333"
        id="text2039"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan2037"
          x="3.4448819"
@@ -2820,20 +2820,20 @@
        id="circle2305"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text2309"
-       y="5.2519698"
+       y="3.5196865"
        x="2.9527512"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="5.2519698"
+         y="3.5196865"
          x="2.9527512"
          id="tspan2307"
          sodipodi:role="line">CV1 LEVEL</tspan></text>
@@ -2843,22 +2843,22 @@
        id="circle2333"
        cx="2.9527512"
        cy="2.7322845"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.9527512"
-       y="3.5196862"
+       y="5.2519698"
        id="text2337"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan2335"
          x="2.9527512"
-         y="3.5196862"
+         y="5.2519698"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">OFFSET</tspan></text>
     <text
        id="text2947"
@@ -2866,9 +2866,9 @@
        x="2.9527512"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="1.9448816"
          x="2.9527512"
@@ -2880,9 +2880,9 @@
        x="4.9212642"
        y="1.9448816"
        id="text2951"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan2949"
          x="4.9212642"
@@ -2901,27 +2901,27 @@
        width="0.90551186"
        id="rect3039"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <circle
        r="0.17716536"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3041"
        cx="4.9212646"
        cy="6.0787406"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.9212646"
        y="6.4740677"
        id="text3045"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan3043"
          x="4.9212646"
@@ -2933,9 +2933,9 @@
        x="4.9212646"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.166667px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="5.7654066"
          x="4.9212646"
@@ -2947,18 +2947,18 @@
        cx="4.4291286"
        cy="8.0472431"
        r="0.27559054"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text3055"
        y="8.520937"
        x="4.4291286"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
          y="8.520937"
          x="4.4291286"
@@ -2970,9 +2970,9 @@
        x="4.4291286"
        y="7.5354333"
        id="text3061"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan3059"
          x="4.4291286"
@@ -2984,18 +2984,18 @@
        cx="5.4133859"
        id="circle3063"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="5.4133859"
        y="8.520937"
        id="text3067"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan3065"
          x="5.4133859"
@@ -3007,18 +3007,18 @@
        cx="5.4133859"
        cy="7.062993"
        r="0.27559054"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text3073"
        y="7.5354338"
        x="5.4133859"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
          y="7.5354338"
          x="5.4133859"
@@ -3028,15 +3028,15 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="4.9212642"
-       y="5.2519698"
+       y="3.5196865"
        id="text3079"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          sodipodi:role="line"
          id="tspan3077"
          x="4.9212642"
-         y="5.2519698"
+         y="3.5196865"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">CV1 LEVEL</tspan></text>
     <circle
        cy="2.7322845"
@@ -3044,20 +3044,20 @@
        id="circle3081"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        id="text3085"
-       y="3.5196862"
+       y="5.2519698"
        x="4.9212642"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png"><tspan
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="3.5196862"
+         y="5.2519698"
          x="4.9212642"
          id="tspan3083"
          sodipodi:role="line">OFFSET</tspan></text>
@@ -3067,9 +3067,9 @@
        id="path2943"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <text
        xml:space="preserve"
        style="font-size:0.166667px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.0104167;stop-color:#000000"
@@ -3081,32 +3081,24 @@
          x="4.5472364"
          y="8.047245"
          style="stroke-width:0.0104167" /></text>
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 4.4291339,7.0629929 4.1338583,6.7677173 V 5.2519685 L 4.9212599,4.4645669"
-       id="path3363"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
     <circle
        r="0.17716536"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3075"
        cx="4.9212642"
        cy="4.4645672"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
     <circle
        r="0.27559054"
        cy="7.0629926"
        cx="4.4291286"
        id="circle3057"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46574"
-       inkscape:export-ydpi="101.46574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/Kosmo version/Images/mfos_vca_panel_100.png" />
+       inkscape:export-xdpi="999.99774"
+       inkscape:export-ydpi="999.99774"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/MFOS/VCA/MFOS_VCA/Images/mfos_vca_panel_100_art.png" />
   </g>
   <g
      inkscape:groupmode="layer"

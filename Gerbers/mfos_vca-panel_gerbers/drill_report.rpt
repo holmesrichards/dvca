@@ -1,0 +1,23 @@
+Drill report for mfos_vca-panel.kicad_pcb
+Created on Tue Mar 14 16:36:31 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'mfos_vca-panel.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.600mm  0.0236"  (112 holes)
+    T2  3.200mm  0.1260"  (4 holes)  (with 4 slots)
+
+    Total plated holes count 116
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
