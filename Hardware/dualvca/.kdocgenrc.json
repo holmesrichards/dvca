@@ -5,6 +5,7 @@
 	"schem_pdf",
         "pcb_svg",
         "pcb_pdf",
+	"step",
 	"readme"
     ],
     "separation": [
