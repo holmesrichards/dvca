@@ -20,7 +20,7 @@ Kosmo format version of the [Music From Outer Space Dual VCA](http://musicfromou
 ## Documentation
 
 * [Schematic](Docs/dualvca_schematic.pdf)
-* PCB layout: [front PCB front](Docs/2D/dualvca_FrontPCB/dualvca_FrontPCB_front.svg), [front PCB back](Docs/2D/dualvca_FrontPCB/dualvca_FrontPCB_back.svg), [back PCB front](Docs/2D/dualvca_BackPCB/dualvca_BackPCB_front.svg), [back PCB back](Docs/2D/dualvca_BackPCB/dualvca_BackPCB_back.svg)
+* PCB layout: [front PCB front](Docs/Layout/dualvca_FrontPCB/dualvca_FrontPCB_front.svg), [front PCB back](Docs/Layout/dualvca_FrontPCB/dualvca_FrontPCB_back.svg), [back PCB front](Docs/Layout/dualvca_BackPCB/dualvca_BackPCB_front.svg), [back PCB back](Docs/Layout/dualvca_BackPCB/dualvca_BackPCB_back.svg)
 * [BOM](Docs/BOM/dualvca_bom.md)
 <!-- * [Build notes](Docs/build.md) -->
 <!-- * [How it works](Docs/howitworks.md) -->
