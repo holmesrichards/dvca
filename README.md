@@ -1,21 +1,19 @@
-This is a work in progress; better README to come soon. Meanwhile:
-
-**Untested hardware and software — Do not assume anything works!**
-
-
 # MFOS Dual VCA
 
 Kosmo format version of the [Music From Outer Space Dual VCA](http://musicfromouterspace.com/analogsynth_new/DUALVCA/DLLVCA001.html) synth module.
 
+Circuit is basically unchanged from the original except:
+
+* Eurorack style power header added, with reversal protection diodes
+* Normal connection from 1st VCA output to 2nd VCA input
+
 ## Current draw
-?? mA +12 V, ?? mA -12 V
+15 mA +12 V, 15 mA -12 V
 
 
 ## Photos
 
-![]()
-
-![]()
+![](Images/frontview.jpg)
 
 ## Documentation
 
